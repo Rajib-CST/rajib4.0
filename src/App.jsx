@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from 'react'
+import React, { useEffect, useMemo, useState } from 'react'
 
 const starterTasks = [
   { id: 1, title: 'Map the onboarding journey', project: 'Northstar', priority: 'High', status: 'In progress', due: 'Sep 24', tag: 'Research', accent: 'coral' },
