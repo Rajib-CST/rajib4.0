@@ -4,13 +4,15 @@ TaskForge is a polished SaaS task manager capstone built with React and Vite. It
 
 ## Live deployment
 
-Deploy this repository with Netlify using the settings below:
+**Live URL:** https://boisterous-cucurucho-f3cda5.netlify.app/
+
+This repository is deployed publicly on Netlify using the settings below:
 
 - **Build command:** `npm run build`
 - **Publish directory:** `dist`
 - **Node version:** `20`
 
-The repository is ready for a public deploy at [Rajib-CST/rajib4.0](https://github.com/Rajib-CST/rajib4.0).
+**Source repository:** [Rajib-CST/rajib4.0](https://github.com/Rajib-CST/rajib4.0)
 
 ## Features
 
